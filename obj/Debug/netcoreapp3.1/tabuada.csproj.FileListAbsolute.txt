@@ -1,0 +1,13 @@
+C:\Users\keziq\Desktop\rirt\tabuada\bin\Debug\netcoreapp3.1\tabuada.exe
+C:\Users\keziq\Desktop\rirt\tabuada\bin\Debug\netcoreapp3.1\tabuada.deps.json
+C:\Users\keziq\Desktop\rirt\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.json
+C:\Users\keziq\Desktop\rirt\tabuada\bin\Debug\netcoreapp3.1\tabuada.runtimeconfig.dev.json
+C:\Users\keziq\Desktop\rirt\tabuada\bin\Debug\netcoreapp3.1\tabuada.dll
+C:\Users\keziq\Desktop\rirt\tabuada\bin\Debug\netcoreapp3.1\tabuada.pdb
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.csprojAssemblyReference.cache
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfoInputs.cache
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfo.cs
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.dll
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.pdb
+C:\Users\keziq\Desktop\rirt\tabuada\obj\Debug\netcoreapp3.1\tabuada.genruntimeconfig.cache
